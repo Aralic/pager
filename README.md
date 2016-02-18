@@ -28,7 +28,7 @@
 
 ### demo:
 
-![预览]('./demo.png')
+![预览](demo.png)
 
 
 
